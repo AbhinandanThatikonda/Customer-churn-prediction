@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib (version == 3.7.3)
+seaborn
+scikit-learn
+tensorflow
+xgboost
+imbalanced-learn
